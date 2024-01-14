@@ -20,7 +20,7 @@ The 3D models for the cheese ball gun include:
 - `main_attachment.stl`: The main attachment for the gun. [Download here](#)
 - `IbbieBaba_Hopper.stl`: The hopper for the cheese balls, special thanks to IbbieBaba for this part. [Download here](#)
 
-![chamber](camber.mp4)
+![chamber](chamber.mp4)
 
 ## Arduino Setup
 
