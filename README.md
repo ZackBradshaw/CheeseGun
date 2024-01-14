@@ -21,11 +21,9 @@ The 3D models for the cheese ball gun include:
 - `main_attachment.stl`: The main attachment for the gun. [Download here](#)
 - `IbbieBaba_Hopper.stl`: The hopper for the cheese balls, special thanks to IbbieBaba for this part. [Download here](#)
 
-<video width="320" height="240">
-  <source src="chamber.mp4" type="video/mp4">
-</video>
+https://github.com/ZackBradshaw/CheeseGun/assets/21285642/55241aa6-d81b-4103-9e2a-8c2f950fd060
 
-## Arduino Setup
+## Arduin Setup
 
 The Arduino is set up to control a relay based on face detection using the Useful Sensors Person Sensor. When a face is detected, the relay is triggered, firing the cheese ball gun. For more details on the Arduino setup, please refer to the [Useful Sensors Person Sensor Arduino repository](https://github.com/usefulsensors/person_sensor_arduino)[1].
 
@@ -41,5 +39,3 @@ This is made possible through a turbulence effect caused by the barrier demonstr
 ![turbulence](turbulence.png)
 
 [1] [Useful Sensors Person Sensor Arduino repository](https://github.com/usefulsensors/person_sensor_arduino)
-
-Please replace `video_link` and `image_link` with the actual URLs of your video and image. Also, replace the `#` in the download links with the actual URLs of your 3D model files.
