@@ -10,6 +10,7 @@ The main components of this project are:
 - Useful Sensors Person Sensor
 - Hair Dryer
 - 3D printed parts for the cheese ball gun
+- Cheese balls 🧀
 
 ## 3D Models
 
@@ -20,7 +21,9 @@ The 3D models for the cheese ball gun include:
 - `main_attachment.stl`: The main attachment for the gun. [Download here](#)
 - `IbbieBaba_Hopper.stl`: The hopper for the cheese balls, special thanks to IbbieBaba for this part. [Download here](#)
 
-![chamber](chamber.mp4)
+<video width="320" height="240">
+  <source src="chamber.mp4" type="video/mp4">
+</video>
 
 ## Arduino Setup
 
